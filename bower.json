@@ -1,14 +1,14 @@
 {
-  "author": "AngularUI",
-  "name": "angular-ui-select2",
-  "version": "0.0.2",
-  "homepage": "http://angular-ui.github.com",
+  "author": "Brett Shollenberger",
+  "name": "angular-ui-select3",
+  "version": "0.0.1",
+  "homepage": "",
   "keywords": [
     "angular",
     "angularui",
     "select2"
   ],
-  "main": "./src/select2.js",
+  "main": "./src/select3.js",
   "dependencies": {
     "angular": ">=1.0.2 <1.2",
     "select2": "~3.4",

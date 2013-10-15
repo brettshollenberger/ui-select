@@ -17,7 +17,7 @@ module.exports = function (grunt) {
         // Lint & run unit tests in Karma
         // Just running `$ grunt watch` will only lint your code; to run tests
         // on watch, use `$ grunt watch:karma` to start a Karma server first
-        files: ['src/select2.js', 'test/select2Spec.js'],
+        files: ['src/select3.js', 'test/select2Spec.js'],
         tasks: ['jshint', 'karma:unit:run']
       }
     },
